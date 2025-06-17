@@ -19,13 +19,13 @@
 
 ### ✍️ 퀴즈 만들기 - 제목 및 설명 입력
 
-![퀴즈 만들기 제목](./images/create-title.png)
+![퀴즈 만들기 제목](./images/create-quiz1.png)
 
 ---
 
 ### 📸 퀴즈 만들기 - 문제 10개 등록
 
-![퀴즈 만들기 문제](./images/create-questions.png)
+![퀴즈 만들기 문제](./images/create-quiz2.png)
 
 ---
 
@@ -43,18 +43,7 @@
 
 ## 🛠️ 기술 스택
 
-### 🔙 Back-End
-- Java 21, Spring Boot 3
-- Spring Security + JWT + OAuth2
-- MySQL + Spring Data JPA
-- AWS S3 이미지 업로드
-- Postman 기반 API 테스트
-
-### 💻 Front-End
-- React 19 + Vite
-- Tailwind CSS
-- Axios (withCredentials + Interceptor)
-- React Router v7
+![기술 스택](./images/stack.png)
 
 ---
 
